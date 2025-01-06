@@ -1,3 +1,7 @@
 body{
-    background-color: pink;
+    /* background-color: pink; */
+    background-image: url('./whale_pic.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
