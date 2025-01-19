@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://e31fdd26.rocketcdn.me/wp-content/uploads/2023/08/forest1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    justify-content: center;
+    display: flex;
+}
+
+
+#forest{
+    width: 420px;
+    background-color: transparent;
+    border:3px rgb(255, 255, 255, .2);
+    backdrop-filter: blur(23px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    color: black;
+    border-radius: 10px;
+    padding: 30px 40px;
+    font-size: larger;
+}
+
