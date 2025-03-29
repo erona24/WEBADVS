@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    font-family: cursive;
+    background-image:url(img.avif) ;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header{
+   
+}

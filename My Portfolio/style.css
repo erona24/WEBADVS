@@ -160,63 +160,7 @@ body{
    margin: auto;
    margin-top: 2rem;
 }
-.skills .img {
-
-}
-.education{
-   background:var(--main-color);
-   margin-top: 56px;
-}
-.education .heading span{
-   color: var(--main-color);
-}
-.education .timeline {
-   position: relative;
-   max-width: 1200px;
-   margin: auto;
-}
-.education .container{
-   border-radius: 4rem;
-   padding: 10px 40px;
-   position: relative;
-   background-color: inherit;
-   width: 50%;
-}
-.education .left {
-   left: 0%;
-}
-.education .right{
-   left: 50%;
-}
-.education .right::after{
-   left: -16px;
-}
-.education .content{
-   background: var(--bg-color);
-   position: relative;
-   border-radius: 6px;
-}
-.education .content .tag {
-   font-size: 1.5rem;
-   padding-left: 1.5rem;
-   padding-right: 1.5rem;
-}
-.education .content .desc{
-   border-radius: 4rem;
-   margin-left: 1.5rem;
-   padding-bottom: 1rem;
-}
-.education .content .tag h2{
-   font-size: 1.5rem;
-   font-weight:600;
-   color:var(--text-color);
-}
-.education .content .desc p{
-   font-size: 1.3rem;
-   font-weight: 500;
-   color:var(--text-color);
-}
-
+.
 .contact h2{
    margin-top: 56px;
    margin-bottom: 3rem;
