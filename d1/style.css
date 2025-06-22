@@ -1,0 +1,80 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgb(222, 237, 242);
+    margin: 0;
+    padding: 40px;
+    color: #333;
+    line-height: 1.6;
+}
+
+hr{
+    border: 1px solid #4a90e2;
+    
+}
+h1 {
+    text-align: center;
+    color: #4a90e2;
+    font-size: 2.5rem;
+    border-bottom: 2px solid #4a90e2;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+p {
+    text-align: center;  
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+}
+
+#demo {
+    background-color: #eef6ff;
+    border-left: 4px solid #4a90e2;
+    border-right: 4px solid #4a90e2;
+    padding: 10px 15px;
+    font-weight: bold;
+    color: #2a5d9f;
+}
+#demo2 {
+    background-color: #eef6ff;
+    border-left: 4px solid #4a90e2;
+    border-right: 4px solid #4a90e2;
+    padding: 10px 15px;
+    font-weight: bold;
+    color: #2a5d9f;
+  }
+  
+  button {
+    margin: 0 auto 20px auto;
+    display: block;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-bottom: 20px;
+  }
+
+  button:hover {
+    background-color: #2980b9;
+  }
+
+  #demo3 {
+    background-color: #eef6ff;
+    border-left: 4px solid #4a90e2;
+    border-right: 4px solid #4a90e2;
+    padding: 10px 15px;
+    font-weight: bold;
+    color: #2a5d9f;
+}
+
+#demo4 {
+    background-color: #eef6ff;
+    border-left: 4px solid #4a90e2;
+    border-right: 4px solid #4a90e2;
+    padding: 10px 15px;
+    font-weight: bold;
+    color: #2a5d9f;
+}
